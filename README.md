@@ -36,7 +36,7 @@ Here are a couple of ongoing projects that I'm working on:
 #### 1. **[Betak - Freelance Project]**
 A mobile app for a trade show, connecting merchants and customers. This project is still under development.
 
-<img src="https://github.com/user-attachments/assets/2ab05a58-4e95-438d-b9cc-17ddcb2117c0" width="200" />
+<img src="https://github.com/user-attachments/assets/f48bf412-12de-4173-a045-53c90ddc34c9" width="200" />
 
 
 
@@ -47,9 +47,9 @@ A mobile app for a trade show, connecting merchants and customers. This project 
 
 This app is designed for employees to report and track issues within the company. It will feature user authentication, issue categorization, and real-time updates. Currently in development during my internship.
 
-<img src="https://github.com/user-attachments/assets/107ea41a-e6a6-4342-9bd8-6366700be9a4" width="200" />
-<img src="https://github.com/user-attachments/assets/5eb994ef-0a52-413c-bf6d-e46983376ecd" width="200" />
-<img src="https://github.com/user-attachments/assets/432fcec6-4f54-4c03-8285-fe92f023e611" width="200" />
+<img src="https://github.com/user-attachments/assets/d5d53362-fa23-4c22-ac4a-8c3b0a19dbd8" width="200" />
+<img src="https://github.com/user-attachments/assets/6eddefef-7c3c-4711-b30d-c3557cdf4b13" width="200" />
+<img src="https://github.com/user-attachments/assets/bced5d2c-7a1d-4a10-b11b-9884312ac458" width="200" />
 
 ---
 
